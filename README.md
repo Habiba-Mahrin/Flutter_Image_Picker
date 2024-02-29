@@ -1,4 +1,4 @@
-# flutter_image_picker
+# Flutter_image_picker
 
 A new Flutter project.
 
